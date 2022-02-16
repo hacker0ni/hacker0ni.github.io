@@ -3,7 +3,7 @@ title: 'Fuzzy Hashing vs Regular Hashing'
 date: '2020-10-20'
 author: hacker0ni
 layout: post
-permalink: /fuzzy-hashing-vs-regular-hashing/
+permalink: /hacker0ni.github.io/fuzzy-hashing-vs-regular-hashing/
 categories:
     - General
 ---

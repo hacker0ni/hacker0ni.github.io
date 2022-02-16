@@ -3,7 +3,7 @@ title: 'Using YARA'
 date: '2020-10-15'
 author: hacker0ni
 layout: post
-permalink: /using-yara/
+permalink: /hacker0ni.github.io/using-yara/
 categories:
     - Guides
 ---

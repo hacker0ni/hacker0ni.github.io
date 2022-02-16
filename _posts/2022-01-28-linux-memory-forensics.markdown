@@ -3,7 +3,7 @@ title: 'Linux Memory Forensics'
 date: '2022-01-28'
 author: hacker0ni
 layout: post
-permalink: /linux-memory-forensics/
+permalink: /hacker0ni.github.io/linux-memory-forensics/
 categories:
     - Forensics
 ---

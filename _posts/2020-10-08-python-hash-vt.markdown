@@ -3,7 +3,7 @@ title: 'Python Script to Send a File Hash to VirusTotal'
 date: '2020-10-08'
 author: hacker0ni
 layout: post
-permalink: /python-hash-virustotal/
+permalink: /hacker0ni.github.io/python-hash-virustotal/
 categories:
     - Guides
 ---

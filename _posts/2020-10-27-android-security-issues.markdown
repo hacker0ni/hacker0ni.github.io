@@ -3,7 +3,7 @@ title: 'Android Security Issues, Brought to You by OEMs'
 date: '2020-10-27'
 author: hacker0ni
 layout: post
-permalink: /android-security-issues/
+permalink: /hacker0ni.github.io/android-security-issues/
 categories:
     - Thoughts
 ---
