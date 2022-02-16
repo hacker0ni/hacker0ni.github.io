@@ -3,7 +3,6 @@ title: 'Import hashing (aka imphashes)'
 date: '2021-10-24'
 author: hacker0ni
 layout: post
-permalink: /hacker0ni.github.io/imphashes/
 categories:
     - General
 ---
