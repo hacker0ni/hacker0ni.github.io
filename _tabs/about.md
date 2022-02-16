@@ -1,8 +1,8 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I'm a cyber security engineer with great interest in disk and memory forensic analysis. I currently work at Linode
+where I try to improve both myself and the company continuously. Feel free to connect with me on LinkedIn.
