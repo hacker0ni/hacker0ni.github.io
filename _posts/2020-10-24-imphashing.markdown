@@ -53,7 +53,7 @@ Comparing the two files with their sha1 hashes, we can see that they’re differ
 
 ![](/assets/img/imphash1.png)
 
-Comparing the [fuzzy hashes](/fuzzy-hashing-vs-regular-hashing/) of the files, we can see that they’re completely different:
+Comparing the fuzzy hashes of the files, we can see that they’re completely different:
 
 ![](/assets/img/imphash2.png)
 
