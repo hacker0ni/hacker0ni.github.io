@@ -25,7 +25,7 @@ tagline: Home of Mustafa B. Polat   # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
         A minimal blog that I keep to share my ideas, findings, guides and thoughts mainly on cyber security.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'hacker0ni.com'
+url: 'hacker0ni.github.io'
 
 github:
   username: hacker0ni             # change to your github username
