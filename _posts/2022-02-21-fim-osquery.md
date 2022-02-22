@@ -1,6 +1,6 @@
 ---
 title: 'Implementing File Integrity Monitoring with Osquery'
-date: '2022-21-02'
+date: '2022-02-21'
 author: hacker0ni
 layout: post
 categories:
