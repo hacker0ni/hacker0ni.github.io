@@ -83,7 +83,7 @@ Using these 2 key factors we can implement two [*differentially*](https://osquer
 ### Monitoring Files
 
 ```
-SELECT path, filename, mode, mtime FROM file WHERE path IN ('/etc/passwd', '/etc/gpasswd', '/etc/group', '/etc/shadow', '/etc/gshadow', '/etc/sudoers');
+SELECT path, mode, mtime FROM file WHERE path IN ('/etc/passwd', '/etc/gpasswd', '/etc/group', '/etc/shadow', '/etc/gshadow', '/etc/sudoers');
 ```
 
 You can monitor the above-mentioned files for detecting changes in them, since they're the files that are less frequently modified and they hold sensitive information about the system.
