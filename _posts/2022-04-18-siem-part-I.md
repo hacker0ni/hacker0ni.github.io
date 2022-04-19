@@ -1,6 +1,6 @@
 ---
 title: 'Building Your Own Open-Source SIEM, Part I: AAAAAH!'
-date: '2022-18-04'
+date: '2022-04-18'
 author: hacker0ni
 layout: post
 categories:
@@ -65,8 +65,8 @@ so-firewall apply
 Ensure that you add both IPs with the first two commands to both groups so they can communicate. I wanted to cover this section, because this was a common problem amongst the users.
 
 # After Deployment
-The initial deployment is a process that you'll get used to after a while, but make sure to document every tidbit you have faced and solved for your own good. Please help the  [community](https://github.com/Security-Onion-Solutions/securityonion/discussions/) by sharing them as well.
+The initial deployment is a process that you'll get used to after a while, but make sure to document every issue you have faced and solved for your own good. Please help the [community](https://github.com/Security-Onion-Solutions/securityonion/discussions/) by sharing them as well.
 
-Assuming you have a working Grid now, get a feel of the UI and read more about the documentation. It is still an evolving project that deserves the attention in my opinion. Feel free to check out some of the guides I've shared with the community [here](https://github.com/Security-Onion-Solutions/securityonion/discussions/categories/show-and-tell?discussions_q=author%3Ahacker0ni+category%3A%22Show+and+tell%22).
+Assuming you have a working Grid now, get a feel of the UI and read more about the documentation. It is an ever-evolving project that deserves the attention in my opinion. Feel free to check out some of the guides I've shared with the community [here](https://github.com/Security-Onion-Solutions/securityonion/discussions/categories/show-and-tell?discussions_q=author%3Ahacker0ni+category%3A%22Show+and+tell%22).
 
-In the upcoming posts I'll get into the nitty gritty of managing an open-source SIEM, this will include connecting an external Logstash instance to the Search nodes for scalability (you can read it now [here](https://github.com/Security-Onion-Solutions/securityonion/discussions/5819)), configuring SSL certificate verification between the external Logstash and the Search node, writing new Ingest Pipelines and Grokking. Hopefully by the end of the series, you'll be able to ingest any kind of data to your open-source SIEM by using the ELK pipeline, generate alerts from them and send them to other sources like Slack. Let me know about your opinions and suggestions. Thanks for reading!
+In the upcoming posts I'll get into the nitty gritty of managing an open-source SIEM, this will include connecting an external Logstash instance to the Search nodes for scalability (you can read it now [here](https://github.com/Security-Onion-Solutions/securityonion/discussions/5819)), configuring SSL certificate verification between the external Logstash and the Search nodes, writing new Ingest Pipelines and Grokking. Hopefully by the end of the series, you'll be able to ingest any kind of data to your open-source SIEM by using the ELK pipeline, generate alerts from them and send them to other sources like Slack. Let me know about your opinions and suggestions. Thanks for reading!
